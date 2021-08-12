@@ -2,19 +2,13 @@ Hello, I am **Priyansh Vyas**, a Second yearite, pursuing my Computer Science de
 
 I am interested in -
 
-- Web Development using **MERN** stack.
-- Native App Development using **React-Native**.
+- Web Development using MERN stack.
+- Native App Development using React-Native.
 - Cybersecurity and CtFs
   
 
 ---
 
-I am currently -
-
-- Working on my ***Express***, ***NodeJS*** and ***Python*** skills
-- Learning ***React-Native***, ***MongoDb*** and ***WebSecurity***
-
----
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=priyansh71&include_all_commits=true&show_icons=true&title_color=ffffff&hide=issues,stars&theme=onedark&text_color=dddddd)
 
